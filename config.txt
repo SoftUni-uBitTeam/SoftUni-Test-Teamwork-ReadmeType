@@ -1,0 +1,2 @@
+name=Tihomir
+Age=26
