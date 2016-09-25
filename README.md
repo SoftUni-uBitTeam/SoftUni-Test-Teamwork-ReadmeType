@@ -1,0 +1,1 @@
+# SoftUni-Test-Teamwork-ReadmeType
