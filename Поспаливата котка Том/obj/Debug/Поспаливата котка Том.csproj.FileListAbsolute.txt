@@ -1,0 +1,8 @@
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016\Exam - 24 April 2016\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.exe.config
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016\Exam - 24 April 2016\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.exe
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016\Exam - 24 April 2016\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.pdb
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016\Exam - 24 April 2016\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.exe
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016\Exam - 24 April 2016\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.pdb
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016 (6-6)\Exam - 24 April 2016\Поспаливата котка Том\bin\Debug\Поспаливата котка Том.exe.config
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016 (6-6)\Exam - 24 April 2016\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.exe
+C:\Users\Administrator\Downloads\Софтуерен университет\Exams\Exam - 24 April 2016 (6-6)\Exam - 24 April 2016\Поспаливата котка Том\obj\Debug\Поспаливата котка Том.pdb
