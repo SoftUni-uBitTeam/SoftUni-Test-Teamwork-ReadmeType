@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 name=Tihomir
 Age=26
+=======
+name=Itso
+
+size=50
+
+email=hristokostov@students.softuni.bg
+>>>>>>> 672b0d4b660c9ae874f326f473a4f99cd6a648fe
